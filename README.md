@@ -75,7 +75,8 @@ Buongiorno, come stai?
 
 Clone the repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ddumanglas7-ui/bilingual-study-cards.git
+
 cd bilingual-study-cards
 
 Install the dependencies:
