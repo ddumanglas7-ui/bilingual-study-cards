@@ -239,3 +239,11 @@ https://qvac.tether.io/
 ---
 
 Bilingual Study Cards - local translation, simple study cards, and AI running on your device.
+
+## Development
+
+The project is intended as a simple demonstration of local AI translation using QVAC. The web interface and command-line translator use the same local translation approach.
+
+## Project Status
+
+Bilingual Study Cards is a working local AI translation project built for the QVAC SDK challenge.
