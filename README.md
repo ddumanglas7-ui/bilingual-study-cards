@@ -247,3 +247,10 @@ The project is intended as a simple demonstration of local AI translation using 
 ## Project Status
 
 Bilingual Study Cards is a working local AI translation project built for the QVAC SDK challenge.
+
+
+## QVAC Version
+
+This project was developed and tested with QVAC SDK version 0.19.1.
+
+The QVAC SDK is declared as a project dependency in package.json.
